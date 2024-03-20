@@ -3,10 +3,10 @@
 # ❓ Who I am:
 <br> Hi there 👋, I'm Santiago Billeci and I live in a small city in California, <br> I'm a developer with a good amount of experience <br>with Python, HTML, JavaScript, and graphic designing.<br>
 
-## 👨‍💻 Projects:
-[Validating Licenses on Discord](https://github.com/t-a-g-o/vlod)
-[Spotium](https://spotium.dev)
-[Pharmor](https://github.com/t-a-g-o/pharmor)
+# 👨‍💻 Projects:
+*[Validating Licenses on Discord](https://github.com/t-a-g-o/vlod)*<br>
+*[Spotium](https://spotium.dev)*<br>
+*[Pharmor](https://github.com/t-a-g-o/pharmor)*
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://tago.works/discord) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dayofearth) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@santiago...) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/tagtoot) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tagosvideos) 
