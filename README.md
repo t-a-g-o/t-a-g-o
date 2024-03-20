@@ -6,12 +6,14 @@
 # 👨‍💻 Projects:
 ## [Validating Licenses on Discord](https://github.com/t-a-g-o/vlod)<br>
 Validating Licenses on Discord bot is a user license validation<br>
-tool coded in javascript and python, and uses GitHub and Netlify as licensing servers. 
+tool coded in javascript and python, and uses GitHub and Netlify as <br>
+licensing servers. 
 
 ## [Spotium](https://spotium.dev)<br>
-Spotium began as a project in 2021, starting off as a lengthy batch code <br>
-designed to block ad host servers from connecting to your computer. Later, <br>
-it transitioned to Python, where it remains today.
+Spotium began as a project in 2021, starting off as a lengthy <br>
+batch code designed to block ad host servers from connecting <br>
+to your computer. Later, it transitioned to Python, where it <br>
+remains today.
 
 ## [Pharmor](https://github.com/t-a-g-o/pharmor)
 An easy to use tool to crop videos to 16:9, overlay images, <br>
