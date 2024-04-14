@@ -4,8 +4,8 @@
 <br> Hi there 👋, I'm Santiago Billeci and I live in a small city in California, <br> I'm a developer with a good amount of experience <br>with Python, HTML, JavaScript, and graphic designing.<br>
 
 # 👨‍💻 Projects:
-## [Validating Licenses on Discord](https://github.com/tagoworks/vlod)<br>
-Validating Licenses on Discord bot is a user license validation<br>
+## [Activating Keys on Discord](https://github.com/tagoworks/akod)<br>
+Activating Keys on Discord bot is a user license key validation<br>
 tool coded in javascript and python, and uses GitHub and Netlify as <br>
 licensing servers. 
 
