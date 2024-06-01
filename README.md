@@ -4,6 +4,12 @@
 <br> Hi there 👋, I'm Santiago Billeci and I live in a small city in California, <br> I'm a developer with a good amount of experience <br>with Python, HTML, JavaScript, and graphic designing.<br>
 
 # 👨‍💻 Projects:
+
+## [PyJONDB](https://github.com/tagoworks/PyJONDB)<br>
+Python JavaScript Object Notation is a lightweight, encrypted JSON-based <br> 
+database with advanced features for things like collections, document <br>
+operations, and aggregation.
+
 ## [Flare 🔥](https://github.com/tagoworks/flare)<br>
 Flare _Key Auth_ operates directly on your own Ubuntu or Linux server, along <br>
 with an API. Flare include things like HWID/Node and IP locking license keys, <br>
