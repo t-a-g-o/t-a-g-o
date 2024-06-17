@@ -1,33 +1,34 @@
-*yes, there's an easier way but I don't care*
-
 # ❓ Who I am:
-<br> Hi there 👋, I'm Santiago Billeci and I live in a small city in California, <br> I'm a developer with a good amount of experience <br>with Python, HTML, JavaScript, and graphic designing.<br>
+<br>Hi there 👋, I'm Santiago Billeci, a 17-year-old developer from a small<br>
+city in Northern California. With extensive experience in both backend and<br>
+frontend development, I've successfully launched multiple websites. My skill<br>
+set includes Python, JavaScript, React, Next.js, HTML, and CSS.
 
 # 👨‍💻 Projects:
 
-## [Ascendara 🕊️](https://ascendara.app/)
+### [Ascendara 🕊️](https://ascendara.app/)
 With Ascendara, you can easily download, manage, and play pre-installed   <br>
 games without needs to go through the hassle of extracting, installing, <br>
 and moving files.
 
-## [PyJONDB](https://github.com/tagoworks/PyJONDB)<br>
+### [PyJONDB](https://github.com/tagoworks/PyJONDB)<br>
 Python JavaScript Object Notation is a lightweight, encrypted JSON-based  <br>
 database with advanced features for things like collections, document <br>
 operations, and aggregation.
 
-## [Flare 🔥](https://github.com/tagoworks/flare)<br>
+### [Flare 🔥](https://github.com/tagoworks/flare)<br>
 Flare _Key Auth_ operates directly on your own Ubuntu or Linux server, along <br>
 with an API. Flare include things like HWID/Node and IP locking license keys, <br>
 unlimited key activations, API SSL encryption, unlimited bandwidth, and your own <br>
 custom domains.
 
-## [Spotium](https://spotium.dev)<br>
+### [Spotium](https://spotium.dev)<br>
 Spotium began as a project in 2021, starting off as a lengthy <br>
 batch code designed to block ad host servers from connecting <br>
 to your computer. Later, it transitioned to Python, where it <br>
 remains today.
 
-## [Pharmor](https://github.com/tagoworks/pharmor)
+### [Pharmor](https://github.com/tagoworks/pharmor)
 An easy to use tool to crop videos to 16:9, overlay images, <br>
 and extract text from images for text to speech.
 
