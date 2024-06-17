@@ -5,8 +5,13 @@
 
 # 👨‍💻 Projects:
 
+## [Ascendara 🕊️](https://ascendara.app/)
+With Ascendara, you can easily download, manage, and play pre-installed   <br>
+games without needs to go through the hassle of extracting, installing, <br>
+and moving files.
+
 ## [PyJONDB](https://github.com/tagoworks/PyJONDB)<br>
-Python JavaScript Object Notation is a lightweight, encrypted JSON-based <br> 
+Python JavaScript Object Notation is a lightweight, encrypted JSON-based  <br>
 database with advanced features for things like collections, document <br>
 operations, and aggregation.
 
