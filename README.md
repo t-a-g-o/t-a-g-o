@@ -1,8 +1,8 @@
 # ❓ Who I am:
-<br>Hi there 👋, I'm Santiago Billeci, a 17-year-old developer from a small<br>
-city in Northern California. With extensive experience in both backend and<br>
-frontend development, I've successfully launched multiple websites. My skill<br>
-set includes Python, JavaScript, React, Next.js, HTML, and CSS.
+Hey, I’m Santiago, a 17-year-old developer from a small city in<br/>
+Northern California. I make websites using HTML and CSS, and I’ve<br/>
+recently gotten into backend and frontend development with my latest<br/>
+project, Ascendara.
 
 # 👨‍💻 Projects:
 
