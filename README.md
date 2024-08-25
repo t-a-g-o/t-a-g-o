@@ -17,10 +17,10 @@ database with advanced features for things like collections, document <br>
 operations, and aggregation.
 
 ### [Flare 🔥](https://github.com/tagoworks/flare)<br>
-Flare _Key Auth_ operates directly on your own Ubuntu or Linux server, along <br>
-with an API. Flare include things like HWID/Node and IP locking license keys, <br>
-unlimited key activations, API SSL encryption, unlimited bandwidth, and your own <br>
-custom domains.
+Flare _Key Auth_ operates directly on your Linux server and includes <br>
+an API. It offers features such as HWID/Node and IP-locked license <br>
+keys, unlimited key activations, API SSL encryption, unlimited <br>
+bandwidth, and support for custom domains.
 
 ### [Spotium](https://spotium.dev)<br>
 Spotium began as a project in 2021, starting off as a lengthy <br>
