@@ -1,6 +1,6 @@
 # ❓ Who I am:
 Hey, I’m Santiago, a 17-year-old developer from a small city in<br/>
-Northern California. I make websites using HTML and CSS, and I’ve<br/>
+Northern California. I make websites and apps using React and Next.js, I’ve<br/>
 recently gotten into backend and frontend development with my latest<br/>
 project, Ascendara.
 
