@@ -6,7 +6,7 @@ project, Ascendara. View more on the [tagoWorks website](https://tago.works/)
 
 # 👨‍💻 Projects:
 
-### [Streamora 🎶](https://streamora.netlify.app/)
+### [Streamora 🎶](https://streamora.tago.works/)
 Streamora is a modern web application for streaming and watching content online. <br> 
 It provides a seamless experience for both content creators and viewers. Play all  <br>
 your favorite music from YouTube. Want to listen to live podcasts? We have that too. <br>
