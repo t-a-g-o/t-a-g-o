@@ -6,6 +6,12 @@ project, Ascendara.
 
 # 👨‍💻 Projects:
 
+### [Streamora 🎶](https://streamora.netlify.app/)
+Streamora is a modern web application for streaming and watching content online. <br> 
+It provides a seamless experience for both content creators and viewers. Play all  <br>
+your favorite music from YouTube. Want to listen to live podcasts? We have that too. <br>
+On your phone, tablet, or computer, everyone is included.
+
 ### [Ascendara 🕊️](https://ascendara.app/)
 With Ascendara, you can easily download, manage, and play pre-installed   <br>
 games without needs to go through the hassle of extracting, installing, <br>
@@ -27,10 +33,6 @@ Spotium began as a project in 2021, starting off as a lengthy <br>
 batch code designed to block ad host servers from connecting <br>
 to your computer. Later, it transitioned to Python, where it <br>
 remains today.
-
-### [Pharmor](https://github.com/tagoworks/pharmor)
-An easy to use tool to crop videos to 16:9, overlay images, <br>
-and extract text from images for text to speech.
 
 # 📊 Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=t-a-g-o&theme=material-palenight&hide_border=true)<br/>
