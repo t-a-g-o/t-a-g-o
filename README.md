@@ -7,23 +7,29 @@ project, Ascendara. View more on the [tagoWorks website](https://tago.works/)
 # 👨‍💻 Projects:
 
 ### [Streamora 🎶](https://streamora.tago.works/)
+##### [View Source Code](https://github.com/tagoWorks/streamora)
 Streamora is a modern web application for streaming and watching content online. <br> 
 It provides a seamless experience for both content creators and viewers. Play all  <br>
 your favorite music from YouTube. Want to listen to live podcasts? We have that too. <br>
 On your phone, tablet, or computer, everyone is included.
 
 ### [Ascendara 🕊️](https://ascendara.app/)
+
+##### [View Source Code](https://github.com/tagoWorks/ascendara)
 With Ascendara, you can easily download, manage, and play pre-installed   <br>
 games without needs to go through the hassle of extracting, installing, <br>
 and moving files.
 
 ### [Flare 🔥](https://github.com/tagoworks/flare)<br>
+
 Flare _Key Auth_ operates directly on your Linux server and includes <br>
 an API. It offers features such as HWID/Node and IP-locked license <br>
 keys, unlimited key activations, API SSL encryption, unlimited <br>
 bandwidth, and support for custom domains.
 
 ### [Spotium](https://spotium.dev)<br>
+
+##### [View Source Code](https://github.com/tagoWorks/spotium)
 Spotium began as a project in 2021, starting off as a lengthy <br>
 batch code designed to block ad host servers from connecting <br>
 to your computer. Later, it transitioned to Python, where it <br>
