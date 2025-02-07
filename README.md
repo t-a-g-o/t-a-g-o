@@ -5,15 +5,13 @@ recently gotten into backend and frontend development with my latest<br/>
 project, Ascendara. View more on my [portfolio](https://tago.works/)
 
 
-# [Ascendara 🕊️](https://ascendara.app/)
+# 👨‍💻 Projects:
 
-Ascendara simplifies your pirating experience by providing a  <br> 
-seamless way to download, manage, and play the pre-installed  <br> 
-games. No more hassle with extracting, installing, or moving files. <br> 
-[View Source Code](https://github.com/tagoWorks/ascendara)<br> 
-
-
-# 👨‍💻 Other Projects:
+### [Ascendara 🕊️](https://ascendara.app/)
+##### [View Source Code](https://github.com/tagoWorks/ascendara)
+Ascendara simplifies your pirating experience by providing a seamless way to  <br> 
+download, manage, and play the pre-installed games. No more hassle with extracting,  <br> 
+installing, or moving files.
 
 ### [Streamora 🎶](https://streamora.tago.works/)
 ##### [View Source Code](https://github.com/tagoWorks/streamora)
@@ -29,7 +27,7 @@ an API. It offers features such as HWID/Node and IP-locked license <br>
 keys, unlimited key activations, API SSL encryption, unlimited <br>
 bandwidth, and support for custom domains.
 
-### [Spotium](https://spotium.dev)<br>
+### [Spotium](https://spotium.tago.works)<br>
 
 ##### [View Source Code](https://github.com/tagoWorks/spotium)
 Spotium began as a project in 2021, starting off as a lengthy <br>
