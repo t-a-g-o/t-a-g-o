@@ -1,5 +1,5 @@
 # ❓ Who I am:
-Hey, I’m Santiago, a 17-year-old developer from a small city in<br/>
+Hey, I’m Santiago, an 18-year-old developer from a small city in<br/>
 Northern California. I make websites and apps using React and Next.js, I’ve<br/>
 recently gotten into backend and frontend development with my latest<br/>
 project, Ascendara. View more on my [portfolio](https://tago.works/)
